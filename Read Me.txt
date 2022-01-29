@@ -1,0 +1,3 @@
+This is a R script file which has certain instructions on the data of Fish Stock Assessment (FSA) package in R language. To be specific, the information provided is of the BullTroutRML2 dataset which gives the growth rate of a fish species called “Bull Trout”.
+
+Set of tasks or instruction includes creating a scatter plot, overdense plot, Histogram etc. using the age & fork length variables.
